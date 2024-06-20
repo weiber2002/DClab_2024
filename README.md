@@ -1,3 +1,4 @@
+# NTUEE 2024 DClab
 It's NTUEE DClab. In most files, we clearly separate the combinational logic and sequential logic, with simple annotations, we believe anyone who is interested in DE2115 or FPGA can easily understand what our codes want to implement.
 
 In lab2, we implement **RSA256 decoder**, we also handle RS232 protocol.
